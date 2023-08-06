@@ -7,3 +7,5 @@ The project provides on overview of digital and analog communications. All image
 ![image](EthicsandExcellence.png)
 
 ![image](USCopyrightCertificate.png)
+
+Additional details reference https://github.com/alpaddesai/ArchitecturalProductDesign
